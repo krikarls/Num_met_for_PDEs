@@ -1,0 +1,9 @@
+* Very good derivations and explenations of schemes and corresponding theory
+* Good illustrations and page set-up, easy for the eyes
+* Compact and easy to read code, with comments
+
+Improvement:
+*Exercise 3.6?
+*Some reference to the animations in your report 
+
+PASSED for sure! 

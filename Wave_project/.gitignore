@@ -1,0 +1,18 @@
+#test-files
+test.txt
+
+#frames for movie
+*.png
+
+#C++ files
+*.o
+.depend
+
+#LaTeX files
+*.log
+*.gz
+*.aux
+*.backup
+
+#Python files
+*.pyc

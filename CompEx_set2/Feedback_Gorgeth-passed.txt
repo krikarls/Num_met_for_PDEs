@@ -1,0 +1,9 @@
+Code:
+	Well commented, but it would be nice with some line end/continuation for the algorithms.
+	A specialized solver for each is a bit overkill when it is only the boundary conditions that varies.
+Report:
+	Complete, with calculations and result.
+	Several misspellings and it would be nice with a clearer difference between the sections(a,b,c,d)
+	Teach me oh table master!
+Overall:
+	Expected convergence rate is wrong, but overall a complete and correct execution.

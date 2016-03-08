@@ -1,0 +1,20 @@
+Feeback av Wilhelm Karlsen (Gorgeth@git) gruppe 6
+
+Files: 
+	Good seperation of solver and secondary exercise functions.
+	Could have used the filename from the description for the run file.
+
+Readability:
+	Could use some more commentary inside the solver function files.
+	
+Functionality:
+	In Problem 1:
+		Missing the function 'qudratic', but you have the required functionality.
+		Nice use of convergence testing.
+	Exercise 21:
+		When it runs I only get the angular displacement figure.
+		-> The other ones work, each new figure simply overwrites the earlier
+		-> figure() before each new one.
+Verdict:
+	Everything works and the result looks correct.
+	Passed!
